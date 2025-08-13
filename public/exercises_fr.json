@@ -1,0 +1,90 @@
+[
+  {
+    "id": "dev-couche",
+    "name": "Développé couché (barre ou haltères)",
+    "type": "force",
+    "equipment": "barre/haltères",
+    "default_sets": 4,
+    "default_reps": "6–8",
+    "rest_sec_set": 90,
+    "rest_sec_exercise": 120,
+    "tutorial_fr": "Descente contrôlée (3s), montée explosive; omoplates serrées, pieds ancrés."
+  },
+  {
+    "id": "dev-incline",
+    "name": "Développé incliné (haltères ou barre)",
+    "type": "hypertrophie",
+    "equipment": "haltères/barre",
+    "default_sets": 3,
+    "default_reps": "8–10",
+    "rest_sec_set": 75,
+    "rest_sec_exercise": 120,
+    "tutorial_fr": "Accent haut des pectoraux. Ne pas verrouiller complètement les coudes."
+  },
+  {
+    "id": "dips-machine",
+    "name": "Dips machine (prise pecs)",
+    "type": "hypertrophie",
+    "equipment": "machine",
+    "default_sets": 3,
+    "default_reps": "8–12",
+    "rest_sec_set": 75,
+    "rest_sec_exercise": 120,
+    "tutorial_fr": "Léger buste en avant pour cibler les pectoraux."
+  },
+  {
+    "id": "fly-low-high",
+    "name": "Écarté à la poulie bas→haut",
+    "type": "isolation",
+    "equipment": "poulie",
+    "default_sets": 3,
+    "default_reps": "12–15",
+    "rest_sec_set": 60,
+    "rest_sec_exercise": 90,
+    "tutorial_fr": "Contraction volontaire en haut, bras légèrement fléchis."
+  },
+  {
+    "id": "curl-ez",
+    "name": "Curl barre EZ / haltères",
+    "type": "hypertrophie",
+    "equipment": "barre/haltères",
+    "default_sets": 4,
+    "default_reps": "8–12",
+    "rest_sec_set": 60,
+    "rest_sec_exercise": 90,
+    "tutorial_fr": "Mains largeur épaules, pas de balancement."
+  },
+  {
+    "id": "curl-hammer",
+    "name": "Curl marteau (corde à la poulie)",
+    "type": "isolation",
+    "equipment": "poulie",
+    "default_sets": 3,
+    "default_reps": "10–12",
+    "rest_sec_set": 60,
+    "rest_sec_exercise": 90,
+    "tutorial_fr": "Cible le brachial pour épaissir le bras."
+  },
+  {
+    "id": "triceps-rope",
+    "name": "Triceps corde à la poulie",
+    "type": "isolation",
+    "equipment": "poulie",
+    "default_sets": 4,
+    "default_reps": "10–12",
+    "rest_sec_set": 60,
+    "rest_sec_exercise": 90,
+    "tutorial_fr": "Écarter la corde en bas pour une contraction maximale."
+  },
+  {
+    "id": "triceps-oh-rope",
+    "name": "Extension triceps au-dessus de la tête (corde)",
+    "type": "isolation",
+    "equipment": "poulie",
+    "default_sets": 2,
+    "default_reps": "12–15",
+    "rest_sec_set": 60,
+    "rest_sec_exercise": 90,
+    "tutorial_fr": "Coudes fixes; étirement contrôlé."
+  }
+]

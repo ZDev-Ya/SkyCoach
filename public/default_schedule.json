@@ -1,0 +1,70 @@
+[
+  {
+    "day": "Lundi",
+    "title": "Pectoraux & Bras — Lourd → Hypertrophie",
+    "exercises": [
+      {
+        "exercise_id": "dev-couche",
+        "start_weight_kg": 50
+      },
+      {
+        "exercise_id": "dev-incline",
+        "start_weight_kg": "40–50"
+      },
+      {
+        "exercise_id": "dips-machine",
+        "start_weight_kg": 80
+      },
+      {
+        "exercise_id": "fly-low-high"
+      },
+      {
+        "exercise_id": "curl-ez"
+      },
+      {
+        "exercise_id": "curl-hammer",
+        "start_weight_kg": 14
+      },
+      {
+        "exercise_id": "triceps-rope",
+        "start_weight_kg": 35
+      },
+      {
+        "exercise_id": "triceps-oh-rope"
+      }
+    ]
+  },
+  {
+    "day": "Mardi",
+    "title": "Dos & Épaules — Câbles",
+    "exercises": []
+  },
+  {
+    "day": "Mercredi",
+    "title": "Cardio Z2 (ou repos)",
+    "cardio": {
+      "duration_min": 30
+    },
+    "exercises": []
+  },
+  {
+    "day": "Jeudi",
+    "title": "Pectoraux & Bras — Câbles",
+    "exercises": []
+  },
+  {
+    "day": "Vendredi",
+    "title": "Bras — Supersets",
+    "exercises": []
+  },
+  {
+    "day": "Samedi",
+    "title": "Option 100 pompes",
+    "exercises": []
+  },
+  {
+    "day": "Dimanche",
+    "title": "Repos",
+    "exercises": []
+  }
+]
